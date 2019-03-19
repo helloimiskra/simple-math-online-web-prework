@@ -1,5 +1,5 @@
-def addition(5,4)
-  puts "5+4"
+def addition("5","4")
+  puts "9"
 end
 
 def subtraction("10","5")
