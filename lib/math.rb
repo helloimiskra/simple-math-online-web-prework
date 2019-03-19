@@ -1,16 +1,16 @@
-def addition("5", "4")
+def addition(5,4)
   puts "5+4"
 end
 
-def subtraction("10", "5")
+def subtraction("10","5")
   puts "10-5"
 end
 
-def division("50", "2")
+def division("50","2")
   puts "50/2"
 end
 
-def multiplication("4", "30")
+def multiplication("4","30")
 puts "4*30"
 end
 
